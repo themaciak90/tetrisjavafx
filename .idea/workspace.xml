@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2000dca-d7cd-4ef4-9f62-bac4f00c8d04" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Tetris$Tetris.ic" NAME="Tetris Coverage Results" MODIFIED="1574691691898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/Tetris.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8211">
+              <caret line="506" selection-start-line="506" selection-end-line="506" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/Block.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2567">
+              <caret line="156" selection-start-line="156" selection-end-line="156" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/KeyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/KeyPressed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/game/ObserveKeyPressed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>przycisk3</find>
+      <find>wyniknapis</find>
+      <find>backgo</find>
+      <find>linear</find>
+      <find>MOVE</find>
+      <find>GRID</find>
+      <find>GRI</find>
+      <find>obiekt</find>
+      <find>stage</find>
+      <find>current</find>
+      <find>create</find>
+      <find>Controller</find>
+      <find>blockFall</find>
+      <find>turn</find>
+      <find>sK</find>
+      <find>moveonkey</find>
+      <find>is agai</find>
+      <find>show</find>
+      <find>shownext</find>
+      <find>isrunning</find>
+      <find>moveon</find>
+      <find>moveonke</find>
+      <find>isrunn</find>
+      <find>playmusic</find>
+      <find>currentblock</find>
+      <find>move</find>
+      <find>LINES</find>
+      <find>thre</find>
+      <find>th</find>
+      <find>tresh</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\LENOVO\Desktop\I7Y2S1_Gelbrecht_Maciej_Projekt_JTP\Tetris\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Tile.java" />
+        <option value="$PROJECT_DIR$/src/Kontroler.java" />
+        <option value="$PROJECT_DIR$/src/Forma.java" />
+        <option value="$PROJECT_DIR$/src/FXML/Button.fxml" />
+        <option value="$PROJECT_DIR$/src/CSS/Button.css" />
+        <option value="$PROJECT_DIR$/src/FilledLineObservator.java" />
+        <option value="$PROJECT_DIR$/src/FilledLinesObservable.java" />
+        <option value="$PROJECT_DIR$/src/FilledLinesObservator.java" />
+        <option value="$PROJECT_DIR$/src/FullRow.java" />
+        <option value="$PROJECT_DIR$/src/KeyController.java" />
+        <option value="$PROJECT_DIR$/src/KeyPressed.java" />
+        <option value="$PROJECT_DIR$/src/ObserveKeyPressed.java" />
+        <option value="$PROJECT_DIR$/src/Controller.java" />
+        <option value="$PROJECT_DIR$/src/Obserwator.java" />
+        <option value="$PROJECT_DIR$/src/Tetris.java" />
+        <option value="$PROJECT_DIR$/src/Block.java" />
+        <option value="$PROJECT_DIR$/src/Button.css" />
+        <option value="$PROJECT_DIR$/src/game/Button.css" />
+        <option value="$PROJECT_DIR$/src/game/Menu.java" />
+        <option value="$PROJECT_DIR$/src/game/KeyPressed.java" />
+        <option value="$PROJECT_DIR$/src/game/KeyController.java" />
+        <option value="$PROJECT_DIR$/src/game/Block.java" />
+        <option value="$PROJECT_DIR$/src/game/Controller.java" />
+        <option value="$PROJECT_DIR$/src/game/Tile.java" />
+        <option value="$PROJECT_DIR$/src/game/Tetris.java" />
+        <option value="$PROJECT_DIR$/src/game/ObserveKeyPressed.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tetris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tetris" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tetris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tetris" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tetris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tetris" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tetris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tetris" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tetris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tetris" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578240422284" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\I7Y2S1_Gelbrecht_Maciej_Projekt_JTP\Tetris\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Desktop\studia\Programowanie zdarzeniowe\Tetris\src" />
+      <recent name="C:\Users\LENOVO\Desktop\studia\Programowanie zdarzeniowe\Tetris\src\game" />
+      <recent name="C:\Users\Maciek\Desktop\studia\JTP\Tetris\src" />
+      <recent name="C:\Users\Maciek\Desktop\studia\JTP\Tetris" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Tetris" />
+      <module name="Tetris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tetris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2000dca-d7cd-4ef4-9f62-bac4f00c8d04" name="Default Changelist" comment="" />
+      <created>1560878177936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560878177936</updated>
+      <workItem from="1560878198074" duration="7343000" />
+      <workItem from="1560932613400" duration="121000" />
+      <workItem from="1560944342282" duration="8859000" />
+      <workItem from="1571907552697" duration="111000" />
+      <workItem from="1573633380305" duration="152000" />
+      <workItem from="1573685329746" duration="675000" />
+      <workItem from="1574604695110" duration="7839000" />
+      <workItem from="1574636718946" duration="51000" />
+      <workItem from="1574677651811" duration="15201000" />
+      <workItem from="1574716493507" duration="85000" />
+      <workItem from="1574767562324" duration="668000" />
+      <workItem from="1574970005011" duration="1571000" />
+      <workItem from="1575059862632" duration="45000" />
+      <workItem from="1575213242659" duration="608000" />
+      <workItem from="1575214005585" duration="3662000" />
+      <workItem from="1575282999371" duration="9680000" />
+      <workItem from="1575303947413" duration="3699000" />
+      <workItem from="1575368415941" duration="5942000" />
+      <workItem from="1575384636344" duration="133000" />
+      <workItem from="1575409030604" duration="2346000" />
+      <workItem from="1575487130265" duration="47000" />
+      <workItem from="1576007301778" duration="4652000" />
+      <workItem from="1576020798120" duration="1633000" />
+      <workItem from="1576333526094" duration="134000" />
+      <workItem from="1576854638826" duration="320000" />
+      <workItem from="1576860127176" duration="1504000" />
+      <workItem from="1576866068225" duration="26000" />
+      <workItem from="1578232981115" duration="4575000" />
+      <workItem from="1578254855039" duration="1639000" />
+      <workItem from="1578388855497" duration="115000" />
+      <workItem from="1578432130287" duration="379000" />
+      <workItem from="1578432680001" duration="112000" />
+      <workItem from="1578490669636" duration="439000" />
+      <workItem from="1578501677413" duration="354000" />
+      <workItem from="1591203071400" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84849000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.2665222" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.2667758" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Tool Output" order="13" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="14" />
+      <window_info anchor="bottom" id="Duplicate detector" order="15" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/javafx/animation/AnimationTimer.java" />
+    <entry file="file://$PROJECT_DIR$/src/FXML/Button.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/CSS/Button.css" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/javafx/event/EventHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/mute.png" />
+    <entry file="file://$PROJECT_DIR$/src/FilledLineObserver.java" />
+    <entry file="file://$PROJECT_DIR$/src/FilledLinesObservable.java" />
+    <entry file="file://$PROJECT_DIR$/src/FilledLinesObservator.java" />
+    <entry file="file://$PROJECT_DIR$/src/FullRow.java" />
+    <entry file="file://$PROJECT_DIR$/src/Obserwator.java" />
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">game</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8568019093078759" x="210.0" y="190.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/javafx/application/Application.java" />
+    <entry file="uml://JAVA/game">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>game</OriginalElement>
+          <nodes>
+            <node x="434.46817765567766" y="688.0">game.Controller</node>
+            <node x="696.4681776556777" y="732.0">game.Tile</node>
+            <node x="439.83333333333337" y="101.0">game.Block</node>
+            <node x="875.4681776556777" y="699.0">game.Menu</node>
+            <node x="0.0" y="322.0">game.KeyPressed</node>
+            <node x="240.84890109890114" y="0.0">game.ObserveKeyPressed</node>
+            <node x="122.46817765567766" y="720.5">game.KeyController</node>
+            <node x="465.3901098901099" y="954.0">game.Tetris</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="game.Tetris" target="game.Block">
+              <point x="-85.17857142857139" y="-411.0" />
+              <point x="618.7115384615385" y="924.0" />
+              <point x="663.9681776556777" y="924.0" />
+              <point x="663.9681776556777" y="668.0" />
+              <point x="656.8333333333334" y="668.0" />
+              <point x="31.0" y="268.5" />
+            </edge>
+            <edge source="game.Controller" target="game.Block">
+              <point x="-73.0" y="-103.0" />
+              <point x="-155.0" y="268.5" />
+            </edge>
+            <edge source="game.Tile" target="game.Tetris">
+              <point x="59.62500000000003" y="59.0" />
+              <point x="835.5931776556777" y="934.0" />
+              <point x="823.1401098901098" y="934.0" />
+              <point x="119.24999999999991" y="-411.0" />
+            </edge>
+            <edge source="game.Tetris" target="game.Menu">
+              <point x="187.39285714285705" y="-411.0" />
+              <point x="891.2829670329669" y="924.0" />
+              <point x="1007.4681776556777" y="924.0" />
+              <point x="0.0" y="92.0" />
+            </edge>
+            <edge source="game.Block" target="game.Tetris">
+              <point x="93.0" y="268.5" />
+              <point x="718.8333333333334" y="658.0" />
+              <point x="674.9681776556777" y="658.0" />
+              <point x="674.9681776556777" y="934.0" />
+              <point x="652.782967032967" y="934.0" />
+              <point x="-51.10714285714283" y="-411.0" />
+            </edge>
+            <edge source="game.Block" target="game.Controller">
+              <point x="-31.0" y="268.5" />
+              <point x="594.8333333333334" y="668.0" />
+              <point x="616.9681776556777" y="668.0" />
+              <point x="73.0" y="-103.0" />
+            </edge>
+            <edge source="game.Tetris" target="game.Tile">
+              <point x="17.035714285714278" y="-411.0" />
+              <point x="720.9258241758241" y="934.0" />
+              <point x="716.3431776556777" y="934.0" />
+              <point x="-59.625" y="59.0" />
+            </edge>
+            <edge source="game.Tetris" target="game.Controller">
+              <point x="-153.3214285714285" y="-411.0" />
+              <point x="550.5686813186813" y="914.0" />
+              <point x="489.21817765567766" y="914.0" />
+              <point x="-54.75" y="103.0" />
+            </edge>
+            <edge source="game.Menu" target="game.Tetris">
+              <point x="88.0" y="92.0" />
+              <point x="1095.4681776556777" y="934.0" />
+              <point x="925.3543956043954" y="934.0" />
+              <point x="221.46428571428558" y="-411.0" />
+            </edge>
+            <edge source="game.KeyPressed" target="game.ObserveKeyPressed">
+              <point x="0.0" y="-47.5" />
+              <point x="146.0" y="76.0" />
+              <point x="264.34890109890114" y="76.0" />
+              <point x="-70.5" y="25.5" />
+            </edge>
+            <edge source="game.KeyController" target="game.ObserveKeyPressed">
+              <point x="0.0" y="-70.5" />
+              <point x="268.46817765567766" y="668.0" />
+              <point x="302.50000000000006" y="668.0" />
+              <point x="302.50000000000006" y="76.0" />
+              <point x="311.34890109890114" y="76.0" />
+              <point x="-23.5" y="25.5" />
+            </edge>
+            <edge source="game.KeyController" target="game.KeyPressed">
+              <point x="-97.33333333333326" y="-70.5" />
+              <point x="171.1348443223444" y="668.0" />
+              <point x="146.0" y="668.0" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="game.Controller" target="game.Tetris">
+              <point x="54.75" y="103.0" />
+              <point x="598.7181776556777" y="934.0" />
+              <point x="584.6401098901099" y="934.0" />
+              <point x="-119.24999999999994" y="-411.0" />
+            </edge>
+            <edge source="game.Tetris" target="game.KeyController">
+              <point x="-187.39285714285705" y="-411.0" />
+              <point x="516.4972527472528" y="924.0" />
+              <point x="341.46817765567766" y="924.0" />
+              <point x="73.0" y="70.5" />
+            </edge>
+            <edge source="game.Block" target="game.ObserveKeyPressed">
+              <point x="0.0" y="-268.5" />
+              <point x="625.8333333333334" y="76.0" />
+              <point x="405.34890109890114" y="76.0" />
+              <point x="70.5" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8" x="583.0" y="882.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Tetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8211">
+          <caret line="506" selection-start-line="506" selection-end-line="506" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2567">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/KeyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/KeyPressed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/ObserveKeyPressed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
